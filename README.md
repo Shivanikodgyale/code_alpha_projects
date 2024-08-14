@@ -1,1 +1,1 @@
-# code_alpha_projects
+# Shivani Kodgyale Code Alpha internship projects(Python domain)
